@@ -11,6 +11,10 @@ $heading-font: Arial;
   }
 }
 
+.menu{
+  font-size: 13px;
+}
+
 .link{
   color: $second-color;
   font-size: 12px;
@@ -18,4 +22,9 @@ $heading-font: Arial;
 
 .heading{
   font-family: $heading-font;
+}
+
+footer{
+  font-size: 13px;
+  background: #ccc;
 }
