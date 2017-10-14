@@ -15,3 +15,9 @@ $(document).ready(function(){
   $(".rslides").responsiveSlides();
 
 });
+
+function getData(){
+  return {
+    
+  }
+}
