@@ -15,3 +15,10 @@ $(document).ready(function(){
   $(".rslides").responsiveSlides();
 
 });
+
+function addTask(){
+  return {
+    'id':0,
+    'desc':'Data badge'
+  }
+}
